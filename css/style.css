@@ -1,16 +1,17 @@
-body{
-    padding: 20px 20px 100px;
-    /* overflow: hidden; */
+*{
+    font-family: 'Inter'; 
+    box-sizing: border-box;
 }
-
-.toggler { width: 500px; height: 200px; position: relative; }
-#button { padding: .5em 1em; text-decoration: none; }
-#effect { width: 240px; height: 190px; padding: 0.4em; position: relative; background: #fff; }
-#effect h3 { margin: 0; padding: 0.2em; text-align: center; }
-
-
-.toggler2 { width: 500px; height: 200px; position: relative; }
-#button { padding: .5em 1em; text-decoration: none; }
-#effect2 { width: 600px; height: 190px; padding: 0.4em; position: relative; background: #fff; }
-#effect2 h3 { margin: 0; padding: 0.2em; text-align: center; }
-
+body { 
+    background-color: #333;
+    color: #fff;
+    line-height:1.6;
+}
+.lead { 
+    font-size: 1.5rem;
+     font-weight: 300;
+ }
+.container {
+     margin: 150px auto;
+     max-width: 960px;
+ }

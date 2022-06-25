@@ -132,5 +132,32 @@ then $(document).ready(function{  })
 
 
 ========================================================================
-jQuery ul effects
+jQuery Plugins
 ------------------------------------------------------------------------
+plugins-javascript/jQuery
+Requirements for jQuery plugins implementation 
+------------------------------------------------------------------------
+search jQuery Plugins
+Demo
+documention
+example
+
+
+
+github/website
+
+-----------------------------------------------------------------------
+demo+documentation
+bug fix
+example-file
+
+
+=====================================================================
+popular jQuery Plugins list
+---------------------------------------------------------------------
+wow.js
+jqueryscript.net(most valuable site for jquery plugin)
+---------------------------------------------------------------------
+
+cursour animation plugin
+
